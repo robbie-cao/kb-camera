@@ -1,2 +1,3 @@
-# kb-camera
+# Camera KB & BKM
+
 Camera Knowledge Base and Best Known Method ...
